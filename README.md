@@ -6,7 +6,8 @@ At Forus Social Network, we follow best practices and refactoring, for simpler a
 #### Summary
 
 * [Refactoring and clean code](#refactoring-and-clean-code)
-* [IDEs]
+* [IDEs]()
+* [Programming Languages]()
 * [Free designs](#free-designs)
 * [Examples](#examples)
 
