@@ -6,6 +6,7 @@ At Forus Social Network, we follow best practices and refactoring, for simpler a
 #### Summary
 
 * [Refactoring and clean code](#refactoring-and-clean-code)
+* [IDEs]
 * [Free designs](#free-designs)
 * [Examples](#examples)
 
@@ -21,7 +22,7 @@ Check here some recommended sites and articles to be a good programmer:
 
 ---
 
-## Free designs
+## 🎨Free designs
 
 Check here some websites for free illustrations, icons and colors:
 
