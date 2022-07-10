@@ -38,13 +38,13 @@ Check here some recommended sites and articles to be a good programmer:
 
 ## Programming Languages
 <!-- alphabetical -->
-- Dart
-- Go
-- JavaScript
-- Kotlin
-- Python
-- Swift
-- TypeScript
+- [Dart](https://dart.dev/guides)
+- [Go](https://go.dev/doc/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Kotlin](https://kotlinlang.org/docs)
+- [Python](https://docs.python.org/3/)
+- [Swift](https://www.swift.org/documentation/)
+- [TypeScript](https://www.typescriptlang.org/docs/)
 
 ## Illustrations
 <!-- alphabetical -->
