@@ -6,9 +6,13 @@ At Forus Social Network, we follow best practices and refactoring, for simpler a
 #### Summary
 
 * [Refactoring and clean code](#refactoring-and-clean-code)
-* [IDEs]()
-* [Programming Languages]()
-* [Free designs](#free-designs)
+* [IDEs](#ides)
+* [Programming languages](#programming-languages)
+* [Illustrations](#illustrations)
+* [Icons](#icons)
+* [Color](#color-picker)
+* [Fonts](#fonts)
+* [Learn to code]()
 * [Examples](#examples)
 
 ---
@@ -23,29 +27,42 @@ Check here some recommended sites and articles to be a good programmer:
 
 ---
 
-## 🎨Free designs
-
-Check here some websites for free illustrations, icons and colors:
-
-#### Illustrations
-
+## IDEs
 <!-- alphabetical -->
-* [Flexiple](https://2.flexiple.com/scale/home): Royalty free Vector Illustrations for Commercial Use.
+- Android Studio
+- Goland
+- IntelliJ
+- PyCharm
+- Visual Studio Code
+- Web Storm
 
-#### Icons
-
+## Programming Languages
 <!-- alphabetical -->
-* [Material Icons](https://fonts.google.com/icons?selected=Material+Icons): Material Icons by Google.
+- Dart
+- Go
+- JavaScript
+- Kotlin
+- Python
+- Swift
+- TypeScript
 
-#### Color picker
-
+## Illustrations
 <!-- alphabetical -->
-* [Material Color Tool](https://material.io/resources/color): Color palettes by Google.
+- [Flexiple](https://2.flexiple.com/scale/home): Royalty free Vector Illustrations for Commercial Use.
 
-#### Fonts
-
+## Icons
 <!-- alphabetical -->
-* [Google Fonts](https://fonts.google.com): Free fonts styles.
+- [Material Icons](https://fonts.google.com/icons?selected=Material+Icons): Material Icons by Google.
+
+## Color picker
+<!-- alphabetical -->
+- Adobe Color
+- [Material Color Tool](https://material.io/resources/color): Color palettes by Google.
+
+## Fonts
+<!-- alphabetical -->
+- Adobe Fonts
+- [Google Fonts](https://fonts.google.com): Free fonts styles.
 
 ---
 
