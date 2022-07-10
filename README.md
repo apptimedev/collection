@@ -7,7 +7,7 @@ At Forus Social Network, we follow best practices and refactoring, for simpler a
 
 * [Refactoring and clean code](#refactoring-and-clean-code)
 * [IDEs](#ides)
-* [Programming languages](#programming-languages)
+* 🔡[Programming languages](#programming-languages)
 * [Illustrations](#illustrations)
 * [Icons](#icons)
 * [Color](#color-picker)
@@ -36,7 +36,7 @@ Check here some recommended sites and articles to be a good programmer:
 - Visual Studio Code
 - Web Storm
 
-## Programming Languages
+## 🔡Programming Languages
 <!-- alphabetical -->
 - [Dart](https://dart.dev/guides)
 - [Go](https://go.dev/doc/)
