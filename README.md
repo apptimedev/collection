@@ -6,12 +6,12 @@ At Forus Social Network, we follow best practices and refactoring, for simpler a
 #### Summary
 
 * [Refactoring and clean code](#refactoring-and-clean-code)
-* [IDEs](#ides)
+* 📝[IDEs](#ides)
 * 🔡[Programming languages](#programming-languages)
-* [Illustrations](#illustrations)
-* [Icons](#icons)
-* [Color](#color-picker)
-* [Fonts](#fonts)
+* 🖊️[Illustrations](#illustrations)
+* ⚕️[Icons](#icons)
+* 🎨[Color](#color-picker)
+* 🅰️[Fonts](#fonts)
 * [Learn to code]()
 * [Examples](#examples)
 
@@ -27,7 +27,7 @@ Check here some recommended sites and articles to be a good programmer:
 
 ---
 
-## IDEs
+## 📝IDEs
 <!-- alphabetical -->
 - Android Studio
 - Goland
@@ -46,20 +46,20 @@ Check here some recommended sites and articles to be a good programmer:
 - [Swift](https://www.swift.org/documentation/)
 - [TypeScript](https://www.typescriptlang.org/docs/)
 
-## Illustrations
+## 🖊️Illustrations
 <!-- alphabetical -->
 - [Flexiple](https://2.flexiple.com/scale/home): Royalty free Vector Illustrations for Commercial Use.
 
-## Icons
+## ⚕️Icons
 <!-- alphabetical -->
 - [Material Icons](https://fonts.google.com/icons?selected=Material+Icons): Material Icons by Google.
 
-## Color picker
+## 🎨Color picker
 <!-- alphabetical -->
 - [Adobe Color](https://color.adobe.com/pt/create/color-wheel)
 - [Material Color Tool](https://material.io/resources/color)
 
-## Fonts
+## 🅰️Fonts
 <!-- alphabetical -->
 - [Adobe Fonts](https://fonts.adobe.com/) 
 - [Google Fonts](https://fonts.google.com)
