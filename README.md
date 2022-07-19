@@ -56,13 +56,13 @@ Check here some recommended sites and articles to be a good programmer:
 
 ## Color picker
 <!-- alphabetical -->
-- Adobe Color
-- [Material Color Tool](https://material.io/resources/color): Color palettes by Google.
+- [Adobe Color](https://color.adobe.com/pt/create/color-wheel)
+- [Material Color Tool](https://material.io/resources/color)
 
 ## Fonts
 <!-- alphabetical -->
-- Adobe Fonts
-- [Google Fonts](https://fonts.google.com): Free fonts styles.
+- [Adobe Fonts](https://fonts.adobe.com/) 
+- [Google Fonts](https://fonts.google.com)
 
 ---
 
