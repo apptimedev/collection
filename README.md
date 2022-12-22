@@ -72,5 +72,5 @@ Usage examples for web, mobile and back-end:
 
 <!-- alphabetical -->
 * [flutter_example](https://github.com/foruscommunity/flutter_example): Essential Flutter Mobile example.
-* [vue-nuxt-example](https://github.com/foruscommunity/vue-nuxt-example): Essential Vue/Nuxt example.
+* [nuxt-example](https://github.com/foruscommunity/nuxt-example): Essential Vue/Nuxt Web example.
 * [go-rest-api-example](https://github.com/foruscommunity/go-rest-api-example): Essential Go Rest API example.
