@@ -72,6 +72,6 @@ Check here some recommended sites and articles to be a good programmer:
 Usage examples for web, mobile and back-end:
 
 <!-- alphabetical -->
-* [flutter_example](https://github.com/foruscommunity/flutter_example): Essential Flutter Mobile example.
-* [nuxt-example](https://github.com/foruscommunity/nuxt-example): Essential Vue/Nuxt Web example.
-* [go-rest-api-example](https://github.com/foruscommunity/go-rest-api-example): Essential Go Rest API example.
+* [flutter_app_template](https://github.com/apptimedev/flutter_app_template): Essential Flutter Mobile example.
+* [nuxt-web-template](https://github.com/apptimedev/nuxt-web-template): Essential Vue/Nuxt example.
+* [go-rest-api-template](https://github.com/apptimedev/go-rest-api-template): Essential Go Rest API example.
