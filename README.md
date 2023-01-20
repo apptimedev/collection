@@ -1,6 +1,6 @@
 # A collection of tutorials and best practices for web, mobile and back-end
 
-At Forus Social Network, we follow best practices and refactoring, for simpler and faster code. Check out some tutorials and examples below for Vue/Nuxt, Flutter, Golang, and others.
+At Apptime, we follow best practices and refactoring, for simpler and faster code. Check out some tutorials and examples below for Vue/Nuxt, Flutter, Golang, and others.
 
 ---
 #### Summary
